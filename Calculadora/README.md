@@ -1,0 +1,1 @@
+Este foi o meu primeiro projeto um pouco mais complexo em Java, utilizando Swing. Aprendi muitas coisas durante o processo e foi extremamente gratificante ver a aplicação funcionando corretamente. 
