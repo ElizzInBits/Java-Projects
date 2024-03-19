@@ -1,0 +1,1 @@
+Desenvolver o Snake foi uma experiência um pouco mais desafiadora, porém extremamente gratificante, o que me permitiu explorar e aprender muitos fundamentos de uma maneira bem mais envolvente e divertida. Claro que ainda há espaço para melhorias, mas o processo de criação foi incrivelmente enriquecedor.🐍🍎
